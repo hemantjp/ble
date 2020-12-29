@@ -38,8 +38,7 @@ def main():
     device_input_thread = threading.Thread(target=print_received_data,args=(uart_service,), daemon=True)
     device_input_thread.start()
     while ui_ble.connected:
-        print('waiting')
-
+        time.sleep(0.05)
 
 if __name__=="__main__":
     main()
