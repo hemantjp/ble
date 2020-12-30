@@ -1,6 +1,3 @@
-[submodule "GUI"]
-	path = GUI
-	url = https://github.com/arjun1299/ble.git
 [submodule "PancreasGUI"]
 	path = PancreasGUI
 	url = https://github.com/arjun1299/PancreasGUI.git
