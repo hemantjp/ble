@@ -1,0 +1,3 @@
+[submodule "PancreasGUI"]
+	path = PancreasGUI
+	url = https://github.com/arjun1299/PancreasGUI.git
